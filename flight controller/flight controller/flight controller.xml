@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\bumin\Desktop\flight controller\flight controller\flight controller.kicad_sch</source>
+    <date>10/08/2022 18:04:12</date>
+    <tool>Eeschema (6.0.1)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>flight controller.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="3.3V1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c841833c-f4ec-4b63-8e03-97b65a202a81</tstamps>
+    </comp>
+    <comp ref="3.3V2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76360c3d-bb06-4fb3-bd06-9966bd65e336</tstamps>
+    </comp>
+    <comp ref="5V1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bf0bad1-c623-4374-8c0d-096e1a70785f</tstamps>
+    </comp>
+    <comp ref="5V2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0b46804-670b-412e-a134-e68c05ff04da</tstamps>
+    </comp>
+    <comp ref="5V3">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e52136b2-dadf-47b2-a240-302c8e3f3642</tstamps>
+    </comp>
+    <comp ref="5V4">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b020920-7385-43b0-98cb-404a8d985b5a</tstamps>
+    </comp>
+    <comp ref="5V5">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>738d3efe-914d-427e-8475-7edecb133e56</tstamps>
+    </comp>
+    <comp ref="5V_In1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3547c18f-dfbb-48e8-91b8-9fe2e3066d80</tstamps>
+    </comp>
+    <comp ref="Ail_L1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88d5ca5d-b1d3-401b-b27b-da4ec1a0f63c</tstamps>
+    </comp>
+    <comp ref="Ail_L2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbe27cd7-94f4-4700-b0b8-d52c34f1673a</tstamps>
+    </comp>
+    <comp ref="Ail_R1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ddbe6a6-c2a4-4065-8433-2a76d4255ca9</tstamps>
+    </comp>
+    <comp ref="Ail_R2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9606adc-b9c2-4ba2-8636-af32ef40f8a5</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4c51e30-1ece-4825-b845-81f386332466</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e781d220-465a-40c4-9e63-3dbe4a7fac3b</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>034ae201-dd5d-41a8-b03c-18d447086f84</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4fa3c84-9196-4235-b03a-51790ee092d1</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>114618f8-c219-4687-8e64-7c0bd92b8f12</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4d50cc8-577c-49c9-8290-8fde817897f5</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91ca8988-a4ad-4741-94cb-89ed3b18487d</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>935d600c-0360-4bce-9573-d48cb24ad8c7</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92718e7d-afc7-4ea0-9efb-0351e9d76651</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba373e84-751c-4a6f-a400-4f4030de1ff7</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ead479d-e4b4-4edf-8e1c-e376c76a93d5</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e688400-2af2-4093-b902-4e871691bc68</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a10a3eba-92f6-4ee7-87ed-9571905fe7e1</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d134e586-601e-4596-861b-8c9c47bdc667</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ddc3a95-421b-475c-bf45-f449d13dcefe</tstamps>
+    </comp>
+    <comp ref="Curr1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2e12952e-ba86-4e63-846f-551e05527127</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>BAT54C</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.diodes.com/_files/datasheets/ds11005.pdf</datasheet>
+      <libsource lib="Diode" part="BAT54C" description="dual schottky barrier diode, common cathode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59edcded-fc14-45e0-a319-e29453ba98d3</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>683414e6-2e9f-4c33-a865-bcc1d274b002</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf1dcf73-a1a6-4669-b17d-3f9374040c5e</tstamps>
+    </comp>
+    <comp ref="Elav_1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8769ca6-5cae-425d-9c7e-cf3274022bee</tstamps>
+    </comp>
+    <comp ref="Elav_2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>693cbe06-48bf-44cf-83e7-3e76afd34060</tstamps>
+    </comp>
+    <comp ref="Elv_1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f916968b-1825-4e3e-953e-24f121713aec</tstamps>
+    </comp>
+    <comp ref="Elv_2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d99e3f3d-806d-4bd8-81cc-0186366df0f4</tstamps>
+    </comp>
+    <comp ref="GND1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e0753b3-bd6f-4e7a-9621-56050030e16b</tstamps>
+    </comp>
+    <comp ref="GND2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9927eb2-dd27-4386-af21-262db96d30d8</tstamps>
+    </comp>
+    <comp ref="GND3">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12ee0e61-a685-49de-ba95-1c31d02a56d5</tstamps>
+    </comp>
+    <comp ref="GND4">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9507a8af-1024-4e9a-936c-2a217e65ff71</tstamps>
+    </comp>
+    <comp ref="GND5">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9148335d-e347-4473-a915-e4a117e5f7eb</tstamps>
+    </comp>
+    <comp ref="GND6">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79d93cc1-c7f2-47f5-92f0-66f91a2a818d</tstamps>
+    </comp>
+    <comp ref="GND7">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a32021aa-f653-441f-90c5-6f81ab9cc023</tstamps>
+    </comp>
+    <comp ref="GND8">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34769871-c4f0-406a-80d3-ec0dfa976250</tstamps>
+    </comp>
+    <comp ref="GND9">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f80b093f-fa08-4333-aa4f-54433c20ea00</tstamps>
+    </comp>
+    <comp ref="GND10">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e82e8dd-07b2-41bf-afc0-38b5c6fd541f</tstamps>
+    </comp>
+    <comp ref="GND11">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>467f8b2e-4c63-4a3f-b7a8-e47a50cb00c5</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b4ab6874-99a7-4889-8935-ee6c7fb8baa9</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5829a268-54b3-441f-9a55-a8f0fc6505ee</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70fc19da-9d1e-4275-a455-6f70993f00bc</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>175f9a5a-c1b0-49e8-a495-1ae7f8fe574f</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_B_Micro</value>
+      <footprint>Connector_USB:USB_Micro-B_Molex-105017-0001</footprint>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b78fa10-d7e0-44cd-b558-71d7c01d3882</tstamps>
+    </comp>
+    <comp ref="J27">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efc2ae59-d8ac-4c27-a5ae-0b8c29660349</tstamps>
+    </comp>
+    <comp ref="J35">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4c100b1-78c1-4ae8-8d9d-1c1fc38df208</tstamps>
+    </comp>
+    <comp ref="Panic1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc3b1962-e74c-4492-b610-eca9a4b181db</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>BC817W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC817W" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>74de9e18-48fa-4be0-a03b-0ba95c817f4d</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>BC817W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC817W" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d01fb9f2-b282-4994-a3f3-5c1da32a4f3f</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>BC817W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC817W" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d590625c-9237-4e5b-9e3c-54fc0ea02ce0</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>BC817W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC817W" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dbc895c-1dd3-4e7d-b81b-ca254a096bab</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>BC817W</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</datasheet>
+      <libsource lib="Transistor_BJT" part="BC817W" description="0.8A Ic, 45V Vce, NPN Transistor, SOT-323"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f696190-4dd5-4abf-882f-9fc22ce21a7b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1e0da9a9-e10b-4962-8f7e-0112365793b9</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>60ebd9e6-daaf-4c95-8bbb-bda9773795e2</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>23f411ab-44b8-4bb7-9d08-9e19245c83db</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f874ab2-a48c-42b3-aabd-444750e893c6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>22</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ea3bd86-4957-4a4d-a9d6-254750d7d99b</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69c963f7-c4ae-4b29-b9f2-da667713f452</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f2fb4be-bd30-49d3-831d-7443b7fc6661</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a9852aac-4e17-4860-b672-3ccb33b5a69c</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c0f0d0a-c3ba-4ba0-a477-f8ca1cde85fb</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3988aee6-82ef-4a07-a53d-d390c32e328a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>092c3c6b-07f7-4e49-bdf0-8165e320ee46</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82550e42-6759-4737-8d02-c512fcf58962</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>330</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d985ac6d-4ebb-4623-8023-0f8856af758e</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>960c2355-8f84-49f3-aeac-e4cd02bcbc55</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd96c989-8469-49ea-9393-4a277bc23c4d</tstamps>
+    </comp>
+    <comp ref="Rx1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eba11411-fbb1-47b8-a76f-7ac80fed17df</tstamps>
+    </comp>
+    <comp ref="Rx3">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a68be046-a8e7-4e5e-bd4f-1c870249f427</tstamps>
+    </comp>
+    <comp ref="Rx6">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00cd21ad-7741-4070-9dd1-f4e24e88ad54</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c1d4f44-3e63-4e49-9601-285b20551ca2</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3afd97c1-a14a-4f87-bb55-72bfaffab38b</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>317c3316-9d1e-49f3-bbcf-6a8ade5ebe73</tstamps>
+    </comp>
+    <comp ref="S4">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc157d55-7437-4475-ad22-41655e56621d</tstamps>
+    </comp>
+    <comp ref="SBus1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4c33e43-9a0e-42f7-8c5f-942e7855c897</tstamps>
+    </comp>
+    <comp ref="SCL1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02f9444e-a892-4860-bb2f-af012774e457</tstamps>
+    </comp>
+    <comp ref="SDA1">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc21bee1-5ee9-44bf-b42a-b0f151e97217</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e057ca2f-1b75-420b-8935-3a5f72a1ab12</tstamps>
+    </comp>
+    <comp ref="Tx3">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bf478c4b-f1d0-4565-a57d-2fde671319ae</tstamps>
+    </comp>
+    <comp ref="Tx6">
+      <value>Conn_01x01_Male</value>
+      <footprint>Pads:SolderWirePad_1x01_SMD_2x3.5mm</footprint>
+      <libsource lib="Connector" part="Conn_01x01_Male" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>829cc872-655d-49f4-a1e6-57b32f9f7b67</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MPU-6000</value>
+      <footprint>Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm</footprint>
+      <datasheet>https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf</datasheet>
+      <libsource lib="Sensor_Motion" part="MPU-6000" description="InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C/SPI"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9222ace0-1173-4fa4-ad84-a50c2bf5f4a9</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>NCP1117-3.3_SOT223</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</datasheet>
+      <libsource lib="Regulator_Linear" part="NCP1117-3.3_SOT223" description="1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb1e30ee-e984-4895-8b27-9407fe6f8221</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>STM32F405RGTx</value>
+      <footprint>Package_QFP:LQFP-64_10x10mm_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf</datasheet>
+      <libsource lib="MCU_ST_STM32F4" part="STM32F405RGTx" description="ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 51 GPIO, LQFP-64"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0351df45-d042-41d4-ba35-88092c7be2fc</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TXS0108EPW</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>www.ti.com/lit/ds/symlink/txs0108e.pdf</datasheet>
+      <libsource lib="Logic_LevelTranslator" part="TXS0108EPW" description="Bidirectional  level-shifting voltage translator, TSSOP-20"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c0eebf2a-4881-44d5-83b5-dc6c113fd0d3</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>8MHz</value>
+      <footprint>Crystal:Resonator_SMD_Murata_SFSKA-3Pin_7.9x3.8mm_HandSoldering</footprint>
+      <libsource lib="Device" part="Resonator" description="Three pin ceramic resonator"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="flight controller.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1ddf23a-245b-42bc-ab62-5f760d45bfb9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Male">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <description>USB Micro Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Resonator">
+      <description>Three pin ceramic resonator</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Filter*</fp>
+        <fp>Resonator*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Resonator</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="BAT54C">
+      <description>dual schottky barrier diode, common cathode</description>
+      <docs>http://www.diodes.com/_files/datasheets/ds11005.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">BAT54C</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">http://www.diodes.com/_files/datasheets/ds11005.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Logic_LevelTranslator" part="TXS0108EPW">
+      <description>Bidirectional  level-shifting voltage translator, TSSOP-20</description>
+      <docs>www.ti.com/lit/ds/symlink/txs0108e.pdf</docs>
+      <footprints>
+        <fp>*SSOP*4.4x6.5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXS0108EPW</field>
+        <field name="Footprint">Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</field>
+        <field name="Datasheet">www.ti.com/lit/ds/symlink/txs0108e.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="bidirectional"/>
+        <pin num="2" name="VCCA" type="power_in"/>
+        <pin num="3" name="A2" type="bidirectional"/>
+        <pin num="4" name="A3" type="bidirectional"/>
+        <pin num="5" name="A4" type="bidirectional"/>
+        <pin num="6" name="A5" type="bidirectional"/>
+        <pin num="7" name="A6" type="bidirectional"/>
+        <pin num="8" name="A7" type="bidirectional"/>
+        <pin num="9" name="A8" type="bidirectional"/>
+        <pin num="10" name="OE" type="input"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="B8" type="bidirectional"/>
+        <pin num="13" name="B7" type="bidirectional"/>
+        <pin num="14" name="B6" type="bidirectional"/>
+        <pin num="15" name="B5" type="bidirectional"/>
+        <pin num="16" name="B4" type="bidirectional"/>
+        <pin num="17" name="B3" type="bidirectional"/>
+        <pin num="18" name="B2" type="bidirectional"/>
+        <pin num="19" name="VCCB" type="power_in"/>
+        <pin num="20" name="B1" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32F4" part="STM32F405RGTx">
+      <description>ARM Cortex-M4 MCU, 1024KB flash, 128KB RAM, 168MHz, 1.8-3.6V, 51 GPIO, LQFP-64</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf</docs>
+      <footprints>
+        <fp>LQFP*10x10mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F405RGTx</field>
+        <field name="Footprint">Package_QFP:LQFP-64_10x10mm_P0.5mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14" type="bidirectional"/>
+        <pin num="4" name="PC15" type="bidirectional"/>
+        <pin num="5" name="PH0" type="input"/>
+        <pin num="6" name="PH1" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="PC0" type="bidirectional"/>
+        <pin num="9" name="PC1" type="bidirectional"/>
+        <pin num="10" name="PC2" type="bidirectional"/>
+        <pin num="11" name="PC3" type="bidirectional"/>
+        <pin num="12" name="VSSA" type="power_in"/>
+        <pin num="13" name="VDDA" type="power_in"/>
+        <pin num="14" name="PA0" type="bidirectional"/>
+        <pin num="15" name="PA1" type="bidirectional"/>
+        <pin num="16" name="PA2" type="bidirectional"/>
+        <pin num="17" name="PA3" type="bidirectional"/>
+        <pin num="18" name="VSS" type="power_in"/>
+        <pin num="19" name="VDD" type="power_in"/>
+        <pin num="20" name="PA4" type="bidirectional"/>
+        <pin num="21" name="PA5" type="bidirectional"/>
+        <pin num="22" name="PA6" type="bidirectional"/>
+        <pin num="23" name="PA7" type="bidirectional"/>
+        <pin num="24" name="PC4" type="bidirectional"/>
+        <pin num="25" name="PC5" type="bidirectional"/>
+        <pin num="26" name="PB0" type="bidirectional"/>
+        <pin num="27" name="PB1" type="bidirectional"/>
+        <pin num="28" name="PB2" type="bidirectional"/>
+        <pin num="29" name="PB10" type="bidirectional"/>
+        <pin num="30" name="PB11" type="bidirectional"/>
+        <pin num="31" name="VCAP_1" type="power_in"/>
+        <pin num="32" name="VDD" type="power_in"/>
+        <pin num="33" name="PB12" type="bidirectional"/>
+        <pin num="34" name="PB13" type="bidirectional"/>
+        <pin num="35" name="PB14" type="bidirectional"/>
+        <pin num="36" name="PB15" type="bidirectional"/>
+        <pin num="37" name="PC6" type="bidirectional"/>
+        <pin num="38" name="PC7" type="bidirectional"/>
+        <pin num="39" name="PC8" type="bidirectional"/>
+        <pin num="40" name="PC9" type="bidirectional"/>
+        <pin num="41" name="PA8" type="bidirectional"/>
+        <pin num="42" name="PA9" type="bidirectional"/>
+        <pin num="43" name="PA10" type="bidirectional"/>
+        <pin num="44" name="PA11" type="bidirectional"/>
+        <pin num="45" name="PA12" type="bidirectional"/>
+        <pin num="46" name="PA13" type="bidirectional"/>
+        <pin num="47" name="VCAP_2" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+        <pin num="49" name="PA14" type="bidirectional"/>
+        <pin num="50" name="PA15" type="bidirectional"/>
+        <pin num="51" name="PC10" type="bidirectional"/>
+        <pin num="52" name="PC11" type="bidirectional"/>
+        <pin num="53" name="PC12" type="bidirectional"/>
+        <pin num="54" name="PD2" type="bidirectional"/>
+        <pin num="55" name="PB3" type="bidirectional"/>
+        <pin num="56" name="PB4" type="bidirectional"/>
+        <pin num="57" name="PB5" type="bidirectional"/>
+        <pin num="58" name="PB6" type="bidirectional"/>
+        <pin num="59" name="PB7" type="bidirectional"/>
+        <pin num="60" name="BOOT0" type="input"/>
+        <pin num="61" name="PB8" type="bidirectional"/>
+        <pin num="62" name="PB9" type="bidirectional"/>
+        <pin num="63" name="VSS" type="power_in"/>
+        <pin num="64" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="NCP1117-3.3_SOT223">
+      <description>1A Low drop-out regulator, Fixed Output 3.3V, SOT-223</description>
+      <docs>http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NCP1117-3.3_SOT223</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Motion" part="MPU-6000">
+      <description>InvenSense 6-Axis Motion Sensor, Gyroscope, Accelerometer, I2C/SPI</description>
+      <docs>https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf</docs>
+      <footprints>
+        <fp>*QFN-24*4x4mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MPU-6000</field>
+        <field name="Footprint">Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm</field>
+        <field name="Datasheet">https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CLKIN" type="input"/>
+        <pin num="6" name="AUX_SDA" type="bidirectional"/>
+        <pin num="7" name="AUX_SCL" type="output"/>
+        <pin num="8" name="~{CS}" type="input"/>
+        <pin num="9" name="AD0/MISO" type="bidirectional"/>
+        <pin num="10" name="REGOUT" type="passive"/>
+        <pin num="11" name="FSYNC" type="input"/>
+        <pin num="12" name="INT" type="output"/>
+        <pin num="13" name="VDD" type="power_in"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="20" name="CPOUT" type="passive"/>
+        <pin num="23" name="SCL/SCLK" type="input"/>
+        <pin num="24" name="SDA/MOSI" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC817W">
+      <description>0.8A Ic, 45V Vce, NPN Transistor, SOT-323</description>
+      <docs>https://www.onsemi.com/pub/Collateral/BC818-D.pdf</docs>
+      <footprints>
+        <fp>SOT?323*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC817W</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-323_SC-70</field>
+        <field name="Datasheet">https://www.onsemi.com/pub/Collateral/BC818-D.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Logic_LevelTranslator">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Logic_LevelTranslator.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM32F4">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_ST_STM32F4.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Motion">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Sensor_Motion.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_BJT.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="5V">
+      <node ref="5V1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="5V2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="5V3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="5V4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="5V5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="D1" pin="3" pintype="passive"/>
+      <node ref="J27" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U4" pin="19" pinfunction="VCCB" pintype="power_in"/>
+    </net>
+    <net code="2" name="5V_In">
+      <node ref="5V_In1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="D1" pin="1" pintype="passive"/>
+    </net>
+    <net code="3" name="5V_USB">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="VBUS" pintype="power_out"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Current_Pad">
+      <node ref="Curr1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="Earth">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="GND1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND11" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="GND9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="GND" pintype="power_out"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="CLKIN" pintype="input"/>
+      <node ref="U1" pin="11" pinfunction="FSYNC" pintype="input"/>
+      <node ref="U1" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="12" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U3" pin="18" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="63" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="GYRO_CS">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="~{CS}" pintype="input"/>
+      <node ref="U3" pin="20" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="GYRO_INT">
+      <node ref="U1" pin="12" pinfunction="INT" pintype="output"/>
+      <node ref="U3" pin="24" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="GYRO_SCL">
+      <node ref="U1" pin="23" pinfunction="SCL/SCLK" pintype="input"/>
+      <node ref="U3" pin="21" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="GYRO_SDA">
+      <node ref="U1" pin="24" pinfunction="SDA/MOSI" pintype="bidirectional"/>
+      <node ref="U3" pin="23" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="GYRO_SDO">
+      <node ref="U1" pin="9" pinfunction="AD0/MISO" pintype="bidirectional"/>
+      <node ref="U3" pin="22" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="LED1">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U3" pin="56" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="LED2">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U3" pin="57" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="REGOUT" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="CPOUT" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="U3" pin="47" pinfunction="VCAP_2" pintype="power_in"/>
+    </net>
+    <net code="17" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="31" pinfunction="VCAP_1" pintype="power_in"/>
+    </net>
+    <net code="18" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(J1-Pad3)">
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q4" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="Q5" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U3" pin="45" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U3" pin="44" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U3" pin="25" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="Net-(R8-Pad2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="60" pinfunction="BOOT0" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(R11-Pad1)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U3" pin="59" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U3" pin="58" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="Net-(R15-Pad2)">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="PC14" pintype="bidirectional"/>
+      <node ref="U4" pin="10" pinfunction="OE" pintype="input"/>
+    </net>
+    <net code="32" name="Net-(U3-Pad5)">
+      <node ref="U3" pin="5" pinfunction="PH0" pintype="input"/>
+      <node ref="Y1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(U3-Pad6)">
+      <node ref="U3" pin="6" pinfunction="PH1" pintype="input"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="PWM1_3.3V">
+      <node ref="U3" pin="17" pinfunction="PA3" pintype="bidirectional"/>
+      <node ref="U4" pin="1" pinfunction="A1" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="PWM1_5V">
+      <node ref="Ail_L1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="U4" pin="20" pinfunction="B1" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="PWM1_R">
+      <node ref="Ail_L2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="37" name="PWM2_3.3V">
+      <node ref="U3" pin="26" pinfunction="PB0" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="A2" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="PWM2_5V">
+      <node ref="Ail_R1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="U4" pin="18" pinfunction="B2" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="PWM2_R">
+      <node ref="Ail_R2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="40" name="PWM3_3.3V">
+      <node ref="U3" pin="27" pinfunction="PB1" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="A3" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="PWM3_5V">
+      <node ref="Elav_1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="U4" pin="17" pinfunction="B3" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="PWM3_R">
+      <node ref="Elv_1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="43" name="PWM4_3.3V">
+      <node ref="U3" pin="16" pinfunction="PA2" pintype="bidirectional"/>
+      <node ref="U4" pin="5" pinfunction="A4" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="PWM4_5V">
+      <node ref="Elav_2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q5" pin="2" pinfunction="E" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="B4" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="PWM4_R">
+      <node ref="Elv_2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="46" name="Panic">
+      <node ref="Panic1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="47" name="S1">
+      <node ref="S1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="33" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="S2">
+      <node ref="S2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="34" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="S3">
+      <node ref="S3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="35" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="S4">
+      <node ref="S4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="36" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="SCL_Pad">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="SCL1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="52" name="SDA_Pad">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="SDA1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="53" name="S_BUS">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="SBus1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="54" name="Sevo_ConR">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="30" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="Uart_Rx1">
+      <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="Rx1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="43" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="Uart_Rx3">
+      <node ref="Rx3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="29" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="Uart_Rx6">
+      <node ref="Rx6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="38" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="Uart_Tx1">
+      <node ref="J35" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="42" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="Uart_Tx3">
+      <node ref="Tx3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="62" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="Uart_Tx6">
+      <node ref="Tx6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="37" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="VDD">
+      <node ref="3.3V1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="3.3V2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U3" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U3" pin="13" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U3" pin="32" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="64" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="VCCA" pintype="power_in"/>
+    </net>
+    <net code="62" name="unconnected-(J1-Pad4)">
+      <node ref="J1" pin="4" pinfunction="ID" pintype="passive"/>
+    </net>
+    <net code="63" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Shield" pintype="passive"/>
+    </net>
+    <net code="64" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="AUX_SDA" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="AUX_SCL" pintype="output"/>
+    </net>
+    <net code="66" name="unconnected-(U3-Pad4)">
+      <node ref="U3" pin="4" pinfunction="PC15" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U3-Pad7)">
+      <node ref="U3" pin="7" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="68" name="unconnected-(U3-Pad8)">
+      <node ref="U3" pin="8" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="unconnected-(U3-Pad9)">
+      <node ref="U3" pin="9" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="unconnected-(U3-Pad10)">
+      <node ref="U3" pin="10" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="unconnected-(U3-Pad14)">
+      <node ref="U3" pin="14" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="unconnected-(U3-Pad15)">
+      <node ref="U3" pin="15" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="unconnected-(U3-Pad19)">
+      <node ref="U3" pin="19" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="74" name="unconnected-(U3-Pad28)">
+      <node ref="U3" pin="28" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="unconnected-(U3-Pad39)">
+      <node ref="U3" pin="39" pinfunction="PC8" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="unconnected-(U3-Pad40)">
+      <node ref="U3" pin="40" pinfunction="PC9" pintype="bidirectional"/>
+    </net>
+    <net code="77" name="unconnected-(U3-Pad41)">
+      <node ref="U3" pin="41" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="unconnected-(U3-Pad46)">
+      <node ref="U3" pin="46" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="unconnected-(U3-Pad49)">
+      <node ref="U3" pin="49" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="unconnected-(U3-Pad50)">
+      <node ref="U3" pin="50" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="unconnected-(U3-Pad51)">
+      <node ref="U3" pin="51" pinfunction="PC10" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="unconnected-(U3-Pad52)">
+      <node ref="U3" pin="52" pinfunction="PC11" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="unconnected-(U3-Pad53)">
+      <node ref="U3" pin="53" pinfunction="PC12" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(U3-Pad54)">
+      <node ref="U3" pin="54" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="unconnected-(U3-Pad55)">
+      <node ref="U3" pin="55" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="unconnected-(U3-Pad61)">
+      <node ref="U3" pin="61" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="unconnected-(U4-Pad6)">
+      <node ref="U4" pin="6" pinfunction="A5" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="unconnected-(U4-Pad7)">
+      <node ref="U4" pin="7" pinfunction="A6" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="unconnected-(U4-Pad8)">
+      <node ref="U4" pin="8" pinfunction="A7" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="unconnected-(U4-Pad9)">
+      <node ref="U4" pin="9" pinfunction="A8" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="unconnected-(U4-Pad12)">
+      <node ref="U4" pin="12" pinfunction="B8" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="unconnected-(U4-Pad13)">
+      <node ref="U4" pin="13" pinfunction="B7" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="unconnected-(U4-Pad14)">
+      <node ref="U4" pin="14" pinfunction="B6" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="unconnected-(U4-Pad15)">
+      <node ref="U4" pin="15" pinfunction="B5" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

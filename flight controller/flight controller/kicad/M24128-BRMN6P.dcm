@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M24128-BRMN6P
+D M24128-BRMN6P, Serial EEPROM Memory 128kbit, Serial-I2C, 900ns 1.8  5.5 V, 8-Pin SOIC
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00259167.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,64 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MCU_Microchip_ATmega:ATmega328-AU U?
+U 1 1 618AD6AA
+P 5750 4600
+F 0 "U?" H 5750 3011 50  0000 C CNN
+F 1 "ATmega328-AU" H 5750 2920 50  0000 C CNN
+F 2 "Package_QFP:TQFP-32_7x7mm_P0.8mm" H 5750 4600 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf" H 5750 4600 50  0001 C CNN
+	1    5750 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 618AFC48
+P 5750 6425
+F 0 "#PWR?" H 5750 6175 50  0001 C CNN
+F 1 "GND" H 5755 6252 50  0000 C CNN
+F 2 "" H 5750 6425 50  0001 C CNN
+F 3 "" H 5750 6425 50  0001 C CNN
+	1    5750 6425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 6100 5750 6425
+$Comp
+L power:VCC #PWR?
+U 1 1 618B2B68
+P 5750 2900
+F 0 "#PWR?" H 5750 2750 50  0001 C CNN
+F 1 "VCC" H 5765 3073 50  0000 C CNN
+F 2 "" H 5750 2900 50  0001 C CNN
+F 3 "" H 5750 2900 50  0001 C CNN
+	1    5750 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 3100 5750 3000
+Wire Wire Line
+	5850 3100 5850 3000
+Wire Wire Line
+	5850 3000 5750 3000
+Connection ~ 5750 3000
+Wire Wire Line
+	5750 3000 5750 2900
+Wire Wire Line
+	5150 3400 5150 3000
+Wire Wire Line
+	5150 3000 5750 3000
+$EndSCHEMATC
